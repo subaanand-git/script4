@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    height: 100vh;
+}
+#hex{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+button{
+    font-size: 18px !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
+}
+button:hover{
+    background-color: blue !important;
+}
